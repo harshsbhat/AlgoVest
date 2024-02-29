@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-league-spartan: "League Spartan";
+
+  /* font sizes */
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-24xl: 43px;
+  --gap-42xl: 61px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-3xs: 10px;
+}
